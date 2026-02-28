@@ -1,3 +1,8 @@
 # Low Level Designs in Golang
 
-1. Design a webscraper
+- [x] Webscraper
+- [ ] Rate Limiter
+- [ ] Parking Lot
+- [ ] Vending Machine
+- [ ] Library System
+- [ ] Elevator System
